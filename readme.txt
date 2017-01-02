@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git tracks changes of files.
 create branch.
 Creating a new branch is quick & simple
+test stash
